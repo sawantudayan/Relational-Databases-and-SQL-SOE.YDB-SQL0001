@@ -1,0 +1,4 @@
+# Its time for the seniors to graduate. Remove all 12th graders from Highschooler.
+
+delete from Highschooler
+where grade =12
